@@ -1,7 +1,6 @@
 # estruturaDeDados
 
-## 1º Bimestre:
-* Lista Linear
+## 1º Bimestre: * Lista Linear
 
 -----
 
