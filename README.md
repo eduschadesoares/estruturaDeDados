@@ -1,10 +1,14 @@
 # estruturaDeDados
 
 ## 1º Bimestre:
-### Lista Linear
+* Lista Linear
+
+-----
 
 ## 2º Bimestre:
-### Árvore Binária
+* Árvore Binária
+
+----
 
 ## 3º Bimestre:
 ### Algoritmos de Ordenação
