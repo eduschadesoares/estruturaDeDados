@@ -8,7 +8,7 @@
 ### 2º Bimestre:
 #### Árvore Binária
 
-----
+-----
 
 ### 3º Bimestre:
 #### Algoritmos de Ordenação
