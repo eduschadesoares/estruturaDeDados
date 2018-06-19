@@ -11,10 +11,10 @@
 ----
 
 ## 3º Bimestre:
-### Algoritmos de Ordenação
-#### void quickSort(int, int);
-#### void heapiFy(int);
-#### void buildHeap();
-#### void heapSort();
-#### void mergeSort(int, int);
+* Algoritmos de Ordenação
+** void quickSort(int, int);
+** void heapiFy(int);
+** void buildHeap();
+** void heapSort();
+** void mergeSort(int, int);
 
