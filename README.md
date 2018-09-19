@@ -7,6 +7,13 @@
 
 # 
 
+#### [Outros](#outros)
+  - Fila
+  - Pilha
+  - Lista Linear
+  
+
+
 ### [1º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/1%C2%BA%20Bimestre):
   - [Lista Linear Dinâmica (com menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/1%C2%BA%20Bimestre/ListaLinearDinamica.cpp)
   - [Lista Linear Dinâmica (sem menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/1%C2%BA%20Bimestre/ListaLinearDinamicaSemMenu.cpp)
@@ -30,5 +37,9 @@
     * [mergeSort](https://github.com/eduschadesoares/estruturaDeDados/blob/d7577d58f8d31c89f14a1a066e870658c7c7f428/3%C2%BA%20Bimestre/OrdenacaoSemMenu.cpp#L178)
     * [quickSort](https://github.com/eduschadesoares/estruturaDeDados/blob/d7577d58f8d31c89f14a1a066e870658c7c7f428/3%C2%BA%20Bimestre/OrdenacaoSemMenu.cpp#L228)
     * [selectionSort](https://github.com/eduschadesoares/estruturaDeDados/blob/d7577d58f8d31c89f14a1a066e870658c7c7f428/3%C2%BA%20Bimestre/OrdenacaoSemMenu.cpp#L97)
+
+#
+
+### [Outros]()
 
 #
