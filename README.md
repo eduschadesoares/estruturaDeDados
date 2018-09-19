@@ -1,3 +1,5 @@
+<img align="right" width="300" height="300" src="https://cdn.intellipaat.com/mediaFiles/2015/08/C-Data-Structures.jpg">
+
 # Estrutura de Dados (2º Ano) 
 
 #### Conteúdo 
