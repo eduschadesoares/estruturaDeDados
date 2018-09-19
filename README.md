@@ -4,8 +4,7 @@
 - [x] [1º Bimestre](#1º-bimestre) (Lista Linear)
 - [x] [2º Bimestre](#2º-bimestre) (Árvore Binária)
 - [x] [3º Bimestre](#3º-bimestre) (Algoritmos de Ordenação)
-- [x] [4º Bimestre](#4º-bimestre)
- 
+
 # 
 
 ### 1º Bimestre:
