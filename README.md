@@ -35,15 +35,17 @@
 #
 
 ### [Outros](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros)
-
+  - [Material](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Material)
+    - [Programa de Disciplina](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Material/Programa%20De%20Disciplina.pdf)
+    - [Trabalho (1º Bimestre)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Material/TrabalhoES2017_1.pdf)
+    - [Trabalho (2º Bimestre)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Material/TrabalhoES2017_2.pdf)
+    - [Trabalho (3º Bimestre)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Material/TrabalhoES2017_3.pdf)
   - [Fila](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Fila)
     - [Fila (Eficiente)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Fila/FilaEficiente.cpp)
     - [Fila (Ineficiente)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Fila/FilaIneficiente.cpp)
-
   - [Lista Linear](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Lista%20Linear)
     - [Lista Linear (Dinâmica)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Lista%20Linear/ListaLinearDinamica.cpp)
     - [Lista Linear (Vetor)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Lista%20Linear/ListaLinearVetor.cpp)
-
   - [Pilha](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Pilha)
     - [Pilha (Windows)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Pilha/Pilha-win.cpp)
     - [Pilha (Dinâmica)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Pilha/pilha_dinamica.cpp)
