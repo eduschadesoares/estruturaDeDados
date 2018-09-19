@@ -35,8 +35,8 @@
 #
 
 ### [Outros](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros)
-
-  -[Fila (Eficiente](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Fila/FilaEficiente.cpp)
-  -[Fila (Ineficiente](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Fila/FilaIneficiente.cpp)
+  - [Fila](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Fila)
+    - [Fila (Eficiente)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Fila/FilaEficiente.cpp)
+    - [Fila (Ineficiente)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Fila/FilaIneficiente.cpp)
 
 #
