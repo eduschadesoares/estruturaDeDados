@@ -8,7 +8,8 @@
 # 
 
 ### [1º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/1%C2%BA%20Bimestre):
-#### Lista Linear
+#### Lista Linear Dinâmica
+#### Lista Linear em Vetor
 
 # 
 
