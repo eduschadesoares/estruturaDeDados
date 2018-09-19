@@ -17,8 +17,8 @@
 
 # 
 
-### 3º Bimestre:
-#### [Algoritmos de Ordenação](https://github.com/eduschadesoares/estruturaDeDados/tree/master/3%C2%BA%20Bimestre)
+### [3º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/3%C2%BA%20Bimestre)
+#### Algoritmos de Ordenação
 * bubbleSort
 * heapSort
 * insertionSort
