@@ -41,7 +41,11 @@
     - [Fila (Ineficiente)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Fila/FilaIneficiente.cpp)
 
   - [Lista Linear](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Lista%20Linear)
-    - [Lista Linear (Dinâmica)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Lista%20Linear/ListaLinearDinamica.cpp))
+    - [Lista Linear (Dinâmica)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Lista%20Linear/ListaLinearDinamica.cpp)
     - [Lista Linear (Vetor)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Lista%20Linear/ListaLinearVetor.cpp)
+
+  - [Pilha](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Pilha)
+    - [Pilha (Windows)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Pilha/Pilha-win.cpp)
+    - [Pilha (Dinâmica)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Pilha/pilha_dinamica.cpp)
 
 #
