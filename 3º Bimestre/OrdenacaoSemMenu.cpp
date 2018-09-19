@@ -11,18 +11,18 @@
     const int TAM = 9999999;
 
 //------------------------------------------------------------------------------
-// Variáveis globais
+// VariÃ¡veis globais
 //------------------------------------------------------------------------------
 
     int vetor[TAM], scratch[TAM], tamHeap = 0;
 
-// Variáveis para armazenar o tempo gasto em cada ordenação
+// VariÃ¡veis para armazenar o tempo gasto em cada ordenaÃ§Ã£o
 
     float tempoTotalBubble, tempoTotalSelection, tempoTotalQuick,
 	tempoTotalHeap, tempoTotalInsertion, tempoTotalMerge;
 
 //------------------------------------------------------------------------------
-// Protótipos das funções
+// ProtÃ³tipos das funÃ§Ãµes
 //------------------------------------------------------------------------------
 
     void gera();
@@ -48,10 +48,10 @@
     using namespace std;
 
 //------------------------------------------------------------------------------
-// Funções do programa
+// FunÃ§Ãµes do programa
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
-// Função para gerar um vetor embaralhado
+// FunÃ§Ã£o para gerar um vetor embaralhado
 //------------------------------------------------------------------------------
 
     void gera() {
@@ -61,7 +61,7 @@
     }
 
 //------------------------------------------------------------------------------
-// Função para imprimir o vetor
+// FunÃ§Ã£o para imprimir o vetor
 //------------------------------------------------------------------------------
 
     void imprime() {
@@ -71,7 +71,7 @@
     }
 
 //------------------------------------------------------------------------------
-// Função Bubble Sort
+// FunÃ§Ã£o Bubble Sort
 //------------------------------------------------------------------------------
 
     void bubbleSort() {
@@ -91,7 +91,7 @@
     }
 
 //------------------------------------------------------------------------------
-// Função Selection Sort
+// FunÃ§Ã£o Selection Sort
 //------------------------------------------------------------------------------
 
     void selectionSort() {
@@ -112,7 +112,7 @@
 	}
 
 //------------------------------------------------------------------------------
-// Função Insertion Sort
+// FunÃ§Ã£o Insertion Sort
 //------------------------------------------------------------------------------
 
 	void insertionSort(){
@@ -134,7 +134,7 @@
     }
 
 //------------------------------------------------------------------------------
-// Função Heap Sort
+// FunÃ§Ã£o Heap Sort
 //------------------------------------------------------------------------------
 
 	void heapiFy(int i){
@@ -172,7 +172,7 @@
 	}
 
 //------------------------------------------------------------------------------
-// Função Merge Sort
+// FunÃ§Ã£o Merge Sort
 //------------------------------------------------------------------------------
 
     void mergeSort(int lo, int hi){
@@ -199,7 +199,7 @@
     }
 
 //------------------------------------------------------------------------------
-// Função Quick Sort
+// FunÃ§Ã£o Quick Sort
 //------------------------------------------------------------------------------
 
     int partitionQuick(int p, int r){
@@ -235,12 +235,12 @@
     }
 
 //------------------------------------------------------------------------------
-// Funções para chamar e calcular tempo das funções de ordenação
+// FunÃ§Ãµes para chamar e calcular tempo das funÃ§Ãµes de ordenaÃ§Ã£o
 //------------------------------------------------------------------------------
 // BubbleSort
 //------------------------------------------------------------------------------
     void calcTempoBubble(){
-        gera(); // Gera um novo vetor aleatório
+        gera(); // Gera um novo vetor aleatÃ³rio
         clock_t time1, time2;
         time1 = clock();
         bubbleSort();
@@ -253,7 +253,7 @@
 //------------------------------------------------------------------------------
 
     void calcTempoSelection(){
-        gera(); // Gera um novo vetor aleatório
+        gera(); // Gera um novo vetor aleatÃ³rio
         clock_t time1, time2;
         time1 = clock();
         selectionSort();
@@ -266,7 +266,7 @@
 //------------------------------------------------------------------------------
 
     void calcTempoInsertion(){
-        gera(); // Gera um novo vetor aleatório
+        gera(); // Gera um novo vetor aleatÃ³rio
         clock_t time1, time2;
         time1 = clock();
         insertionSort();
@@ -279,7 +279,7 @@
 //------------------------------------------------------------------------------
 
     void calcTempoHeap(){
-        gera(); // Gera um novo vetor aleatório
+        gera(); // Gera um novo vetor aleatÃ³rio
         clock_t time1, time2;
         time1 = clock();
         heapSort();
@@ -292,7 +292,7 @@
 //------------------------------------------------------------------------------
 
     void calcTempoMerge(){
-        gera(); // Gera um novo vetor aleatório
+        gera(); // Gera um novo vetor aleatÃ³rio
         clock_t time1, time2;
         time1 = clock();
         mergeSort(0, TAM-1);
@@ -305,7 +305,7 @@
 //------------------------------------------------------------------------------
 
     void calcTempoQuick(){
-        gera(); // Gera um novo vetor aleatório
+        gera(); // Gera um novo vetor aleatÃ³rio
         clock_t time1, time2;
         time1 = clock();
         quickSort(0, TAM-1);
@@ -314,7 +314,7 @@
     }
 
 //------------------------------------------------------------------------------
-// Função Principal do Programa
+// FunÃ§Ã£o Principal do Programa
 //------------------------------------------------------------------------------
 
     int main() {
@@ -334,4 +334,3 @@
         cout << "  Quick: " << tempoTotalQuick << endl;
 
     }
-
