@@ -8,10 +8,10 @@
 # 
 
 ### [1º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/1%C2%BA%20Bimestre):
-  - Lista Linear Dinâmica (com menu)
-  - Lista Linear Dinâmica (sem menu)
-  - Lista Linear em Vetor (com menu)
-  - Lista Linear em Vetor (sem menu)
+  - [Lista Linear Dinâmica (com menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/1%C2%BA%20Bimestre/ListaLinearDinamica.cpp)
+  - [Lista Linear Dinâmica (sem menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/1%C2%BA%20Bimestre/ListaLinearDinamicaSemMenu.cpp)
+  - [Lista Linear em Vetor (com menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/1%C2%BA%20Bimestre/ListaLinearVetor.cpp)
+  - [Lista Linear em Vetor (sem menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/1%C2%BA%20Bimestre/ListaLinearVetorSemMenu.cpp)
 
 # 
 
