@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://cdn.intellipaat.com/mediaFiles/2015/08/C-Data-Structures.jpg">
+<img align="right" width="300" height="300" src="https://qph.fs.quoracdn.net/main-qimg-d97954f3261676fdff9dd67249d03c7f">
 
 # Estrutura de Dados (2º Ano) 
 
