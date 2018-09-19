@@ -7,8 +7,8 @@
 
 # 
 
-### 1º Bimestre:
-#### [Lista Linear](https://github.com/eduschadesoares/estruturaDeDados/tree/master/1%C2%BA%20Bimestre)
+### [1º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/1%C2%BA%20Bimestre):
+#### Lista Linear
 
 # 
 
