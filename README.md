@@ -16,7 +16,9 @@
 # 
 
 ### [2º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/2%C2%BA%20Bimestre):
-#### Árvore Binária
+  - [Árvore Binária (com menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/2%C2%BA%20Bimestre/ArvoreBinariaComMenu.cpp)
+  - [Árvore Binária (sem menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/2%C2%BA%20Bimestre/ArvoreBinariaSemMenu.cpp)
+  - [Árvore Binária (com escolha de arquivo)](https://github.com/eduschadesoares/estruturaDeDados/tree/master/2%C2%BA%20Bimestre/ArvoreComEscolhaDeArquivo)
 
 # 
 
