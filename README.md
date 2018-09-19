@@ -4,15 +4,9 @@
 - [x] [1º Bimestre](#1º-bimestre) (Lista Linear)
 - [x] [2º Bimestre](#2º-bimestre) (Árvore Binária)
 - [x] [3º Bimestre](#3º-bimestre) (Algoritmos de Ordenação)
+- [x] [Outros](#outros)
 
 # 
-
-#### [Outros](#outros)
-  - Fila
-  - Pilha
-  - Lista Linear
-  
-
 
 ### [1º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/1%C2%BA%20Bimestre):
   - [Lista Linear Dinâmica (com menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/1%C2%BA%20Bimestre/ListaLinearDinamica.cpp)
