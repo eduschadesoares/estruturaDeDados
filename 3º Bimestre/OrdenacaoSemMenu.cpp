@@ -18,8 +18,8 @@
 
 // Variáveis para armazenar o tempo gasto em cada ordenação
 
-    float tempoTotalBubble, tempoTotalSelection, tempoTotalQuick,
-	tempoTotalHeap, tempoTotalInsertion, tempoTotalMerge;
+    float tempoTotalBubble, tempoTotalSelection, tempoTotalQuick, 
+	  tempoTotalHeap, tempoTotalInsertion, tempoTotalMerge;
 
 //------------------------------------------------------------------------------
 // Protótipos das funções
