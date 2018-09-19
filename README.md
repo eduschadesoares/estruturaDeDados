@@ -34,6 +34,6 @@
 
 #
 
-### [Outros]()
+### [Outros](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros)
 
 #
