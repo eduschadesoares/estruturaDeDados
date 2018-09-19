@@ -13,7 +13,7 @@
 # 
 
 ### 2º Bimestre:
-#### Árvore Binária
+#### [Árvore Binária](https://github.com/eduschadesoares/estruturaDeDados/tree/master/2%C2%BA%20Bimestre)
 
 # 
 
