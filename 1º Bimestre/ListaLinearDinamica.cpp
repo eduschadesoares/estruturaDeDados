@@ -4,10 +4,9 @@
     #include <ctime>
     #include <clocale>
     #include <ctime>
-    #include <conio.h> //Para a utilização da função getche()
+    #include <conio.h> //Para a utilizaÃ§Ã£o da funÃ§Ã£o getche()
 
-
-	using namespace std;
+    using namespace std;
 
     //Procedimentos principais
     void insereLista();
@@ -35,7 +34,7 @@
 
     int main () {
         setlocale(LC_ALL,"");
-        cout << "  Lista linear dinâmica" << endl;
+        cout << "  Lista linear dinÃ¢mica" << endl;
         menu();
 		cout << "  Eduardo Soares - 16016923\n";
         cout << "  Matheus Gomes  - 16267723\n";
@@ -62,9 +61,9 @@
             aux -> prox = atual;
             anterior -> prox = aux;
         }
-        printf("  Número %2i foi inserido com sucesso!\n", valor);
+        printf("  NÃºmero %2i foi inserido com sucesso!\n", valor);
         tamanho++;
-        //cout << "  Número " << valor << " foi inserido com sucesso!\n";
+        //cout << "  NÃºmero " << valor << " foi inserido com sucesso!\n";
 	}
 
 	void removeLista(int posicao) {
@@ -81,13 +80,13 @@
 		if (posicao == 1) {
         	lista = lista->prox;
         	delete(atual);
-        	cout << "  Número removido com sucesso!\n";
+        	cout << "  NÃºmero removido com sucesso!\n";
         	return;
     	}
 		
 		while(cont != posicao) {
   	    	if (atual->prox == NULL) {
-            	cout << "  Posição inválida!\n";
+            	cout << "  PosiÃ§Ã£o invÃ¡lida!\n";
            	    return;
         	}
      	 	anterior = atual;
@@ -97,7 +96,7 @@
 		
  	    anterior->prox = atual->prox;
     	delete(atual);
-    	cout << "  Número removido com sucesso!\n";
+    	cout << "  NÃºmero removido com sucesso!\n";
     } 
 
 	void recuperaLista(int posicao) {
@@ -105,18 +104,18 @@
 		aux = lista;
 		
 		if (lista == NULL) {
-			cout << "  Não é possível buscar por nenhuma posição, a lista está vazia!\n";
+			cout << "  NÃ£o Ã© possÃ­vel buscar por nenhuma posiÃ§Ã£o, a lista estÃ¡ vazia!\n";
 			return;			
 		}
 		
 		for (int i = 1; i < posicao; i++) {
 			if(aux -> prox == NULL) {
-				cout << "  Posição inválida\n";
+				cout << "  PosiÃ§Ã£o invÃ¡lida\n";
 				return;				
 			}
 			aux = aux -> prox;		
 		}		
-		cout << "  O valor encontrado na posição " << posicao << " é: " << aux -> dado << "\n";
+		cout << "  O valor encontrado na posiÃ§Ã£o " << posicao << " Ã©: " << aux -> dado << "\n";
 	}
 	
 	void buscaLista(int valor) {
@@ -131,7 +130,7 @@
     	
     	while (aux != NULL) {
 	        if (aux->dado == valor) {
-	            cout << "  O número " << valor << " foi encontrado na posição: " << i << "\n";
+	            cout << "  O nÃºmero " << valor << " foi encontrado na posiÃ§Ã£o: " << i << "\n";
 	            qntd++;
 	        }
 	        aux = aux->prox;
@@ -139,16 +138,16 @@
     	}	  	  
 		  
     	if(qntd == 0)
-  			cout << "  O número não foi encontrado na lista! =/\n";
+  			cout << "  O nÃºmero nÃ£o foi encontrado na lista! =/\n";
    			else if (qntd == 1)
-   					cout << "  O número " << valor << " foi encontrado " << qntd << " vez.\n";
+   					cout << "  O nÃºmero " << valor << " foi encontrado " << qntd << " vez.\n";
     				else
-		    			cout << "  O número " << valor << " foi encontrado " << qntd << " vezes.\n";		
+		    			cout << "  O nÃºmero " << valor << " foi encontrado " << qntd << " vezes.\n";		
 	}
 	
     void preencheLista() {
     	int qntd, valor;
-    	cout << "  Quantidade de posições a serem preenchidas: ";
+    	cout << "  Quantidade de posiÃ§Ãµes a serem preenchidas: ";
     	cin >> qntd;
     	fflush(stdin);   	
 		srand(time(NULL));
@@ -188,7 +187,7 @@
 
     void menuRemoveLista() {
         int posicao;
-        cout << "  Insira uma posição: ";
+        cout << "  Insira uma posiÃ§Ã£o: ";
         cin >> posicao;
         fflush(stdin);
         removeLista(posicao);
@@ -197,7 +196,7 @@
 
 	void menuRecuperaLista() {
 		int posicao;
-    	cout << "  Insira uma posição: ";
+    	cout << "  Insira uma posiÃ§Ã£o: ";
         cin >> posicao;
         fflush(stdin);
         recuperaLista(posicao);		
@@ -232,10 +231,10 @@
    	    printf("  ------------------------------------------\n");
    	    printf("  - Valor: ");
 
-   	    //Com a utilização da biblioteca <conio.h>
+   	    //Com a utilizaÃ§Ã£o da biblioteca <conio.h>
    	    esc = getche();
 
-   	    //Com a utilização da biblioteca padrão
+   	    //Com a utilizaÃ§Ã£o da biblioteca padrÃ£o
 	    //scanf("%c", &esc);
 	    
 	    fflush(stdin);
@@ -268,7 +267,7 @@
 	        printf("  Valor incorreto. Tente novamente!\n");
 	        menu();
 	    }
-	    //Faz um loop do menu até o usuário sair
+	    //Faz um loop do menu atÃ© o usuÃ¡rio sair
 	    menu();
 	}
 
