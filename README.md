@@ -19,7 +19,7 @@
 
 ### [3º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/3%C2%BA%20Bimestre)
 #### Algoritmos de Ordenação
-* bubbleSort
+* [bubbleSort](https://github.com/eduschadesoares/estruturaDeDados/blob/d7577d58f8d31c89f14a1a066e870658c7c7f428/3%C2%BA%20Bimestre/OrdenacaoSemMenu.cpp#L77)
 * heapSort
 * insertionSort
 * mergeSort
