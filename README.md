@@ -6,6 +6,7 @@
 - [x] [1º Bimestre](#1º-bimestre) (Lista Linear)
 - [x] [2º Bimestre](#2º-bimestre) (Árvore Binária)
 - [x] [3º Bimestre](#3º-bimestre) (Algoritmos de Ordenação)
+- [x] [4º Bimestre](#4º-bimestre) (Grafos)
 - [x] [Outros](#outros) (Materiais, Programa de Disciplina, Trabalhos)
 
 # 
@@ -33,6 +34,11 @@
     * [mergeSort](https://github.com/eduschadesoares/estruturaDeDados/blob/d7577d58f8d31c89f14a1a066e870658c7c7f428/3%C2%BA%20Bimestre/OrdenacaoSemMenu.cpp#L178)
     * [quickSort](https://github.com/eduschadesoares/estruturaDeDados/blob/d7577d58f8d31c89f14a1a066e870658c7c7f428/3%C2%BA%20Bimestre/OrdenacaoSemMenu.cpp#L228)
     * [selectionSort](https://github.com/eduschadesoares/estruturaDeDados/blob/d7577d58f8d31c89f14a1a066e870658c7c7f428/3%C2%BA%20Bimestre/OrdenacaoSemMenu.cpp#L97)
+
+#
+
+### [4º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/4%C2%BA%20Bimestre) codes by [@gomesmat](https://github.com/gomesmat)'s [repository](https://github.com/gomesmat/2017-Estrutura)
+  * [Grafos (sem menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/4%C2%BA%20Bimestre/GrafosSemMenu.cpp)
 
 #
 
