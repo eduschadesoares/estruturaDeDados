@@ -1,3 +1,11 @@
+
+//--------------------------------------------------------
+//--------------------------------------------------------
+//              All rights to @gomesmat                  -
+// Taken from https://github.com/gomesmat/2017-Estrutura -
+//--------------------------------------------------------
+//--------------------------------------------------------
+
 #include <time.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -33,14 +41,14 @@ void sequencial (int valor){
         }
         i++;
     }
-    printf("N�o achei!");
+    printf("Não achei!");
 }
 
 void sequencialS (int valor){
 	int i=0;
 	vetor[tam-1] = valor;
 	while (vetor[i] < valor) i++;
-	if (i==tam-1 || vetor[i]!=valor) printf("N�o achei!");
+	if (i==tam-1 || vetor[i]!=valor) printf("Não achei!");
 	else printf("Achei!");
 }
 
@@ -63,7 +71,7 @@ void binaria (int valor){
         if (valor < vetor[meio]) fim = meio-1;
         else /* valor > vetor[meio] */ inicio = meio+1;
     }
-    printf("N�o achei!\n");
+    printf("Não achei!\n");
 }
 
 int main(){

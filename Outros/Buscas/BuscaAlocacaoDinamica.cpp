@@ -1,3 +1,11 @@
+
+//--------------------------------------------------------
+//--------------------------------------------------------
+//              All rights to @gomesmat                  -
+// Taken from https://github.com/gomesmat/2017-Estrutura -
+//--------------------------------------------------------
+//--------------------------------------------------------
+
 #include <time.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -42,7 +50,7 @@ void sequencial (int valor) {
         }
         atual = atual -> prox;
     }
-    printf("N�o achei!");
+    printf("Não achei!");
 }
 
 void moverParaFrente(int valor){
@@ -61,7 +69,7 @@ void moverParaFrente(int valor){
         anterior = atual;
         atual = atual -> prox;
     }
-    printf("N�o achei!");
+    printf("Não achei!");
 }
 
 int main(){

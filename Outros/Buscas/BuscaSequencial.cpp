@@ -1,3 +1,11 @@
+
+//--------------------------------------------------------
+//--------------------------------------------------------
+//              All rights to @gomesmat                  -
+// Taken from https://github.com/gomesmat/2017-Estrutura -
+//--------------------------------------------------------
+//--------------------------------------------------------
+
 #include <time.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -22,7 +30,7 @@ void sequencial (int valor){
         }
         i++;
     }
-    printf("N�o achei!\n\n");
+    printf("Não achei!\n\n");
 }
 
 int main(){
