@@ -38,7 +38,7 @@
 #
 
 ### [4º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/4%C2%BA%20Bimestre)
-  #### codes by [@gomesmat](https://github.com/gomesmat)'s [repository](https://github.com/gomesmat/2017-Estrutura)
+  ###### Codes by [@gomesmat](https://github.com/gomesmat)'s [repository](https://github.com/gomesmat/2017-Estrutura)
   * [Grafos (sem menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/4%C2%BA%20Bimestre/GrafosSemMenu.cpp)
 
 #
