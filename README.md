@@ -49,7 +49,7 @@
     - [Trabalho (1º Bimestre)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Material/TrabalhoES2017_1.pdf)
     - [Trabalho (2º Bimestre)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Material/TrabalhoES2017_2.pdf)
     - [Trabalho (3º Bimestre)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Material/TrabalhoES2017_3.pdf)
-  - [Árvores](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/%C3%81rvores) - **_codes by [@gomesmat](https://github.com/gomesmat)'s [repository](https://github.com/gomesmat/2017-Estrutura)_**
+  - [Árvores](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/%C3%81rvores) - _(codes by [@gomesmat](https://github.com/gomesmat)'s [repository](https://github.com/gomesmat/2017-Estrutura))_
     - [Árvore de Busca Diferencial](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/%C3%81rvores/ArvoreBuscaDiferencial.cpp)
     - [Balanceamento de Árvore](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/%C3%81rvores/BalanceamentoArvore.cpp)
   - [Buscas](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Buscas) - **_codes by [@gomesmat](https://github.com/gomesmat)'s [repository](https://github.com/gomesmat/2017-Estrutura)_**
