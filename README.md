@@ -53,8 +53,7 @@
     - **_Codes by [@gomesmat](https://github.com/gomesmat)'s [repository](https://github.com/gomesmat/2017-Estrutura)_**
     - [Árvore de Busca Diferencial](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/%C3%81rvores/ArvoreBuscaDiferencial.cpp)
     - [Balanceamento de Árvore](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/%C3%81rvores/BalanceamentoArvore.cpp)
-  - [Buscas](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Buscas)
-    - **_Codes by [@gomesmat](https://github.com/gomesmat)'s [repository](https://github.com/gomesmat/2017-Estrutura)_**
+  - [Buscas](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Buscas) - **_Codes by [@gomesmat](https://github.com/gomesmat)'s [repository](https://github.com/gomesmat/2017-Estrutura)_**
     - [Busca Alocação Dinâmica](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Buscas/BuscaAlocacaoDinamica.cpp)
     - [Busca Sequencial](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Buscas/BuscaSequencial.cpp)
     - [Busca Sequencial e Binária](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Buscas/BuscaSequencialEBinaria.cpp)
