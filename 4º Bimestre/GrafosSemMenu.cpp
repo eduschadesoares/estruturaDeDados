@@ -26,18 +26,18 @@ void imprime_grafo() {
 	}
 }
 
-void insere(int valor) { //Insere V�rtices
+void insere(int valor) { //Insere Vértices
     int i ;
     if (num_vertices<tam) {
         for(i=0; i<num_vertices; i++) {
             if (valor==vertices[i]) {
-                printf("\nV�rtice repetido.\n");
+                printf("\nVértice repetido.\n");
                 return;
             }
         }
         vertices[num_vertices] = valor;
         num_vertices++;
-    } else printf ("\nSem espa�o dispon�vel.\n");
+    } else printf ("\nSem espaço disponível.\n");
 }
 
 void insereAresta(int orig, int dest) { //Insere Arestas
@@ -45,15 +45,15 @@ void insereAresta(int orig, int dest) { //Insere Arestas
     for (i = 0; i < num_vertices; i++) {
         if (vertices[i] == orig) break;
     }
-    if (i == num_vertices) { //Se o valor de i � igual ao n�mero de v�rtices, a vertice de origem n�o existe 
-        printf ("\nV�rtice origem n�o existe.\n");
+    if (i == num_vertices) { //Se o valor de i é igual ao n�mero de vértices, a vertice de origem não existe 
+        printf ("\nVértice origem não existe.\n");
         return;
     }
     for (j = 0; j <= num_vertices; j++) {
         if (vertices[j] == dest) break;
     }
-    if (j == num_vertices) { //Se o valor de j � igual ao n�mero de v�rtices, a vertice de destino n�o existe 
-        printf ("\nV�rtice de destino n�o existe.\n");
+    if (j == num_vertices) { //Se o valor de j é igual ao n�mero de vértices, a vertice de destino não existe 
+        printf ("\nVértice de destino não existe.\n");
         return;
     }
     arestas[i][j] = 1; // 1 significa que existe aresta nas coordenadas [i,j]
@@ -64,21 +64,21 @@ void removeAresta(int orig, int dest){
     for (i = 0; i < num_vertices; i++) {
         if (vertices[i] == orig) break;
     }
-    if (i == num_vertices) { //Se o valor de i � igual ao n�mero de v�rtices, a vertice de origem n�o existe 
-        printf ("\nV�rtice origem n�o existe.\n");
+    if (i == num_vertices) { //Se o valor de i é igual ao número de vértices, a vertice de origem não existe 
+        printf ("\nVértice origem não existe.\n");
         return;
     }
     for (j = 0; j <= num_vertices; j++) {
         if (vertices[j] == dest) break;
     }
-    if (j == num_vertices) { //Se o valor de j � igual ao n�mero de v�rtices, a vertice de destino n�o existe 
-        printf ("\nV�rtice de destino n�o existe.\n");
+    if (j == num_vertices) { //Se o valor de j é igual ao número de vértices, a vertice de destino não existe 
+        printf ("\nVértice de destino não existe.\n");
         return;
     }
     if (arestas[i][j] == 1){
     	printf("\n\n\n Removendo aresta <%d, %d>...\n\n", vertices[i], vertices[j]);
-		arestas[i][j] = 0; // 0 significa que n�o existe aresta nas coordenadas [i,j]
-	} else printf("\n\n\n N�o existe aresta <%d, %d> para remover.\n\n", vertices[i], vertices[j]);
+		arestas[i][j] = 0; // 0 significa que não existe aresta nas coordenadas [i,j]
+	} else printf("\n\n\n Não existe aresta <%d, %d> para remover.\n\n", vertices[i], vertices[j]);
 }
 
 int main() {
