@@ -38,7 +38,7 @@
 #
 
 ### [4º Bimestre](https://github.com/eduschadesoares/estruturaDeDados/tree/master/4%C2%BA%20Bimestre)
-  ###### Código por [@gomesmat](https://github.com/gomesmat), [repositório](https://github.com/gomesmat/2017-Estrutura) :top:
+  ###### Código por [@gomesmat](https://github.com/gomesmat) - [repositório](https://github.com/gomesmat/2017-Estrutura) :top:
   * [Grafos (sem menu)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/4%C2%BA%20Bimestre/GrafosSemMenu.cpp)
 
 #
@@ -49,10 +49,10 @@
     - [Trabalho (1º Bimestre)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Material/TrabalhoES2017_1.pdf)
     - [Trabalho (2º Bimestre)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Material/TrabalhoES2017_2.pdf)
     - [Trabalho (3º Bimestre)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Material/TrabalhoES2017_3.pdf)
-  - [Árvores](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/%C3%81rvores) - _(código por [@gomesmat](https://github.com/gomesmat) [repositório](https://github.com/gomesmat/2017-Estrutura))_
+  - [Árvores](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/%C3%81rvores) - _(código por [@gomesmat](https://github.com/gomesmat) - [repositório](https://github.com/gomesmat/2017-Estrutura))_
     - [Árvore de Busca Diferencial](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/%C3%81rvores/ArvoreBuscaDiferencial.cpp)
     - [Balanceamento de Árvore](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/%C3%81rvores/BalanceamentoArvore.cpp)
-  - [Buscas](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Buscas) - _(código por [@gomesmat](https://github.com/gomesmat) [repositório](https://github.com/gomesmat/2017-Estrutura))_
+  - [Buscas](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Buscas) - _(código por [@gomesmat](https://github.com/gomesmat) - [repositório](https://github.com/gomesmat/2017-Estrutura))_
     - [Busca Alocação Dinâmica](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Buscas/BuscaAlocacaoDinamica.cpp)
     - [Busca Sequencial](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Buscas/BuscaSequencial.cpp)
     - [Busca Sequencial e Binária](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Buscas/BuscaSequencialEBinaria.cpp)
@@ -61,7 +61,7 @@
   - [Fila](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Fila)
     - [Fila (Eficiente)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Fila/FilaEficiente.cpp)
     - [Fila (Ineficiente)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Fila/FilaIneficiente.cpp)
-  - [Hashing](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Hashing) - _(código por [@gomesmat](https://github.com/gomesmat) [repositório](https://github.com/gomesmat/2017-Estrutura))_
+  - [Hashing](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Hashing) - _(código por [@gomesmat](https://github.com/gomesmat) - [repositório](https://github.com/gomesmat/2017-Estrutura))_
     - [Hashing](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Hashing/Hashing.cpp)
   - [Lista Linear](https://github.com/eduschadesoares/estruturaDeDados/tree/master/Outros/Lista%20Linear)
     - [Lista Linear (Dinâmica)](https://github.com/eduschadesoares/estruturaDeDados/blob/master/Outros/Lista%20Linear/ListaLinearDinamica.cpp)
