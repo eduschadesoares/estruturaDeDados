@@ -2,6 +2,11 @@
 
 # Estrutura de Dados (2º Ano) 
 
+### Conteúdo refente à matéria de Estrutura de Dados
+Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachareleminformatica.pdf) da *[Universidade Estadual de Ponta Grossa](https://portal.uepg.br/)*
+
+#
+
 #### Conteúdo 
 - [x] [1º Bimestre](#1º-bimestre) (Lista Linear)
 - [x] [2º Bimestre](#2º-bimestre) (Árvore Binária)
