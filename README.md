@@ -3,7 +3,7 @@
 # Estrutura de Dados (2º Ano) 
 
 ### Conteúdo refente à matéria de Estrutura de Dados
-Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachareleminformatica.pdf) da *[Universidade&nbsp;Estadual&nbsp;de&nbsp;Ponta&nbsp;Grossa](https://portal.uepg.br/)*
+Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachareleminformatica.pdf) da&nbsp;*[Universidade&nbsp;Estadual&nbsp;de&nbsp;Ponta&nbsp;Grossa](https://portal.uepg.br/)*
 
 #
 
