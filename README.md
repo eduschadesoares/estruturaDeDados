@@ -1,4 +1,4 @@
-<img align="right" width="300" height="200" src="https://qph.fs.quoracdn.net/main-qimg-d97954f3261676fdff9dd67249d03c7f">
+<img align="right" width="290" height="190" src="https://qph.fs.quoracdn.net/main-qimg-d97954f3261676fdff9dd67249d03c7f">
 
 # Estrutura de Dados (2º Ano) 
 
